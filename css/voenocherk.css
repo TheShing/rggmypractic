@@ -10,6 +10,11 @@
     background-position: right bottom;
     opacity: 0.2;
 }
+#text-2col .bg {
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.1;
+}
 #footer-logo-share .bg {
     background-repeat: no-repeat;
     background-position: ;

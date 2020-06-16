@@ -1,0 +1,11 @@
+
+#testimonial-single .bg {
+	background-position: center bottom;
+	background-size: cover;
+	background-image: url('../images/balearskoe-more_51.jpg');
+}#footer-logo-text-2 .bg {
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: auto;
+    opacity:0.05;
+}
